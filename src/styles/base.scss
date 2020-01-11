@@ -1,0 +1,89 @@
+@import "theme";
+@import "grid";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $fontFamily;
+    font-size: map-get($fontSizes,"medium");
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 130%;
+}
+
+$headingSize: map-get($fontSizes, "heading");
+
+h1 {
+    font-size: nth($headingSize,1);
+}
+
+h2 {
+    font-size: nth($headingSize,3);
+}
+
+h3 {
+    font-size: nth($headingSize,4);
+}
+
+h4 {
+    font-size: nth($headingSize,5);
+}
+
+h5 {
+    font-size: nth($headingSize,6);
+}
+
+h6 {
+    font-size: nth($headingSize,7);
+}
+
+.overlay-link {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+.section {
+    padding: nth($spacings,-4) 0;
+    background: #fff;
+}
+
+.footer {
+    text-align: center;
+    padding: nth($spacings, 3);
+
+    .content {
+        background: #000;
+        padding: nth($spacings, 7) nth($spacings, 5);
+    }
+
+    img {
+        width: 48px;
+        margin: 24px 0;
+    }
+
+    ul {
+        li {
+            display: inline-block;
+
+            a {
+                display: inline-block;
+                color: #fff;
+                margin: 0 nth($spacings, 3);
+                text-transform: uppercase;
+            }
+        }
+    }
+}

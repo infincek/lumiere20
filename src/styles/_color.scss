@@ -1,0 +1,37 @@
+$themes: (
+    light: (
+        base: #fff,
+        background: #fff,
+        textLight: #777,
+        primaryGradient: linear-gradient(to right,#c31432,#240b36)
+    )
+);
+
+// Internal variable, just ignore 
+$_current-theme: null;
+
+// Function to refer to theme setting by name
+// 
+// @param string $name  Name of the theme setting to use
+// @return mixed
+@function theme($name) {
+    @if ($_current-theme == null) {
+        @error "theme() function should only be used into code that is wrapped by 'theme' mixin";
+    }
+    @if (not map-has-key(map-get($themes, $_current-theme), $name)) {
+        @warn "Unknown theme key '#{$name}' for theme '#{$_current-theme}'";
+        @return null;
+    }
+    @return map-get(map-get($themes, $_current-theme), $name);
+}
+
+// Theming application mixin, themable piece of style should be wrapped by call to this mixin 
+@mixin theme() {
+    @each $theme in map-keys($themes) {
+        $_current-theme: $theme !global;
+        .theme-#{$theme} & {
+            @content;
+        }
+    }
+    $_current-theme: null !global;
+}
