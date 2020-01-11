@@ -77,7 +77,7 @@ class Navbar extends React.Component {
         navLinks = links.nav.map(i => {
             return (
                 <li key={`nl-${i.name}-${i.url}`}>
-                <Link to={i.url} title={i.name}>{i.name}</Link> 
+                    <Link to={i.url} title={i.name}>{i.name}</Link> 
                 </li>
             )
         })

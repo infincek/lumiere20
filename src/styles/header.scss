@@ -24,6 +24,31 @@ nav {
         transition: width .35s;
     }
 
+    a {
+        position: relative;
+
+        &:after {
+            content: "";
+            position: absolute;
+            width: 24px;
+            height: 3px;
+            background: #fff;
+            bottom: -3px;
+            left: 30%;
+            opacity: 0;
+            transition: opacity .35s, left .35s;
+            transform: translate(-100%,0);
+        }
+
+        &:hover, &:active, &:focus {
+            &:after {
+                opacity: 1;
+                left: 80%;
+                left: calc(100%);
+            }
+        }
+    }
+
     &.scrolled {
         background: #000;
 
