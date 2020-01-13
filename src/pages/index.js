@@ -67,7 +67,7 @@ export default class Index extends React.Component{
         return (
             <Layout seo={seo}>
                 <div className="bgvideo">
-                    <video autoPlay muted loop>
+                    <video autoPlay muted loop poster={bgImage}>
                         <source src="/video/bgvideo.mp4" type="video/mp4"/>
                     </video>
                 </div>
