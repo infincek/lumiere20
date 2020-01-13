@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import Bg from "../components/bg"
-import bgVideo from "../assets/bgvideo.mp4"
 import bgImage from "../assets/bgimage.jpg"
 import phone from "../assets/phone.png"
 
@@ -68,7 +67,9 @@ export default class Index extends React.Component{
         return (
             <Layout seo={seo}>
                 <div className="bgvideo">
-                    <Bg/>
+                    <video autoPlay muted loop>
+                        <source src="/video/bgvideo.mp4" type="video/mp4"/>
+                    </video>
                 </div>
                 <div className="wall">
                     <div className="centered">    
