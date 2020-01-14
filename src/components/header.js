@@ -1,6 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import Sidebar from "./sidebar"
+import menuIcon from "../assets/menu.png"
+
 import "../styles/header.scss"
 
 const links = {
@@ -54,8 +57,15 @@ class Navbar extends React.Component {
         super(props);
 
         this.state = {
-            navClass: "default"
+            navClass: "default",
+            sidebarOpen: false
         }
+    }
+
+    sidebarOnChange = (c) => {
+        this.setState({
+            sidebarOpen: c
+        })
     }
 
     componentDidMount(){
@@ -98,7 +108,28 @@ class Navbar extends React.Component {
         return (
             <React.Fragment>
                 <nav className={this.state.navClass}>
-                    <div className="left">
+                    <div className="mob">
+                        <button title="Open Menu" onClick={() => this.sidebarOnChange(true)}><img src={menuIcon} alt="Menu"/></button>
+                        <div className="logo">
+                            <Link to="/" title="Home">
+                                <img src="/images/logo.png" alt="Lumiere"/>
+                            </Link>
+                        </div>
+                    </div>
+                    <div className="wide">
+                        <div className="left">
+                            <div className="logo">
+                                <Link to="/" title="Home">
+                                    <img src="/images/logo.png" alt="Lumiere"/>
+                                </Link>
+                            </div>
+                            <ul className="nav-links links">{navLinks}</ul>
+                        </div>
+                        <ul className="social-links links">{socialLinks}</ul>
+                    </div>
+                </nav>
+                <Sidebar onChange={this.sidebarOnChange} open={this.state.sidebarOpen}>
+                    <div className="sidebar">
                         <div className="logo">
                             <Link to="/" title="Home">
                                 <img src="/images/logo.png" alt="Lumiere"/>
@@ -106,8 +137,7 @@ class Navbar extends React.Component {
                         </div>
                         <ul className="nav-links links">{navLinks}</ul>
                     </div>
-                    <ul className="social-links links">{socialLinks}</ul>
-                </nav>
+                </Sidebar>
                 {
                     this.props.placeholder &&
                     <div className="placeholder"></div>

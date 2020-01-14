@@ -2,7 +2,6 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Bg from "../components/bg"
 import bgImage from "../assets/bgimage.jpg"
 import phone from "../assets/phone.png"
 
@@ -130,7 +129,7 @@ export default class Index extends React.Component{
                                 </div>
                                 <div className="col s12 m6">
                                     <div className="map">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15732.621716581574!2d76.6211893!3d9.6677578!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd62bf193983589fe!2sCollege%20of%20Engineering%20Kidangoor!5e0!3m2!1sen!2sin!4v1578758675732!5m2!1sen!2sin" width="400" height="400" frameBorder="0" style={{border: 0}} allowFullScreen=""></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15732.621716581574!2d76.6211893!3d9.6677578!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd62bf193983589fe!2sCollege%20of%20Engineering%20Kidangoor!5e0!3m2!1sen!2sin!4v1578758675732!5m2!1sen!2sin" width="400" height="400" frameBorder="0" title="Google Map" style={{border: 0}} allowFullScreen=""></iframe>
                                     </div>
                                 </div>
                             </div>
