@@ -52,8 +52,9 @@ nav {
         }
     }
 
-    &.scrolled {
-        background: #000;
+    &.scrolled, &.bg {
+        background: url("/images/nav.jpg");
+        background-size: cover;
 
         &:after {
             width: 100%;
@@ -149,6 +150,14 @@ nav {
             }
         }
     }
+}
+
+.nav-placeholder {
+    height: 90px;
+}
+
+.front-page nav.scrolled{
+    background: #000;
 }
 
 .sidebar {

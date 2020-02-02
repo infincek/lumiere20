@@ -58,7 +58,7 @@ class Layout extends React.Component {
         return (
             <div
                 id="wrapper"
-                className={`theme-${this.themes[this.state.theme]}`}
+                className={`theme-${this.themes[this.state.theme]} ${this.props.className || ''}`}
             >
                 <div id="main">
                     <Seo {...this.props.seo} />
@@ -68,6 +68,7 @@ class Layout extends React.Component {
                     <Header
                         cycleTheme={this.cycleTheme}
                         currentTheme={currentTheme}
+                        {...this.props.headerProps}
                     />
                     <main>{this.props.children}</main>
                     <Footer />

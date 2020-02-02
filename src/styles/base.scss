@@ -53,6 +53,7 @@ h6 {
     top: 0;
     left: 0;
     opacity: 0;
+    z-index: 5;
 }
 
 .section {
@@ -63,6 +64,8 @@ h6 {
 .footer {
     text-align: center;
     padding: nth($spacings, 3);
+    background: url("/images/nav.jpg");
+    background-size: 100% 100%;
 
     .content {
         background: #000;
@@ -87,4 +90,47 @@ h6 {
             }
         }
     }
+}
+
+.front-page {
+    .footer {
+        background: transparent
+    }
+}
+
+.title {
+    padding: 80px 0;
+    text-align: center;
+
+    h1 {
+        display: inline-block;
+        position: relative;
+
+        &:after {
+            position: absolute;
+            content: "";
+            width: 60%;
+            height: 5px;
+            background: #000;
+            bottom: 0;
+            right: -6px;
+        }
+    }
+}
+
+.card {
+    padding: 12px;
+    
+    .box {
+        background :#fffdfd;
+        position: relative;
+        border-radius: 4px;
+        padding: 12px;
+        box-shadow: 4px 4px 10px -4px rgba(0, 0, 0, 0.3)
+    }
+}
+
+.page-section {
+    padding: 16px 0;
+    padding-bottom: 64px;
 }

@@ -1,0 +1,44 @@
+{
+    "events": [
+        {
+            "title": "General Events",
+            "url": "/events/general",
+            "image": "/images/event.png",
+            "description": "General Events"
+        },
+        {
+            "title": "Technical Events",
+            "url": "/events/technical",
+            "image": "/images/event.png",
+            "description": "Technical Events"
+        },
+        {
+            "title": "Arts Events",
+            "url": "/events/arts",
+            "image": "/images/event.png",
+            "description": "Arts Events"
+        },
+        {
+            "title": "Cultural Events",
+            "url": "/events/cultural",
+            "image": "/images/event.png",
+            "description": "Cultural Events"
+        },
+        {
+            "title": "Publicity Events",
+            "url": "/events/publicity",
+            "image": "/images/event.png",
+            "description": "Publicity Events"
+        },
+        {
+            "title": "Workshops",
+            "url": "/events/Workshops",
+            "image": "/images/event.png",
+            "description": "Workshops"
+        }
+    ],
+    "generalGuidelines": [
+        "It is mandatory for the participants to bring their id cards of respected college/school.",
+        "Participants are requested to report at least half an hour before each event at the venue."
+    ]
+}

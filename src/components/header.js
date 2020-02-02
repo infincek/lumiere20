@@ -45,9 +45,9 @@ const links = {
 };
 
 export {links} 
-export const Header = () => {
+export const Header = ({ navPlaceholder }) => {
     return (
-        <Navbar />
+        <Navbar navPlaceholder={navPlaceholder}/>
     )
 }
 
@@ -92,6 +92,8 @@ class Navbar extends React.Component {
             )
         })
 
+        const navAdditionalClass = this.props.navPlaceholder === false ? "" : "bg";
+
         let socialLinks = [];
         socialLinks = links.social.map(i => {
             return (
@@ -107,7 +109,7 @@ class Navbar extends React.Component {
 
         return (
             <React.Fragment>
-                <nav className={this.state.navClass}>
+                <nav className={this.state.navClass+` ${navAdditionalClass}`}>
                     <div className="mob">
                         <button title="Open Menu" onClick={() => this.sidebarOnChange(true)}><img src={menuIcon} alt="Menu"/></button>
                         <div className="logo">
@@ -128,6 +130,10 @@ class Navbar extends React.Component {
                         <ul className="social-links links">{socialLinks}</ul>
                     </div>
                 </nav>
+                {
+                    this.props.navPlaceholder !== false &&
+                    <div className="nav-placeholder"></div>
+                }
                 <Sidebar onChange={this.sidebarOnChange} open={this.state.sidebarOpen}>
                     <div className="sidebar">
                         <div className="logo">
@@ -138,10 +144,6 @@ class Navbar extends React.Component {
                         <ul className="nav-links links">{navLinks}</ul>
                     </div>
                 </Sidebar>
-                {
-                    this.props.placeholder &&
-                    <div className="placeholder"></div>
-                }
             </React.Fragment>
         )
     }
