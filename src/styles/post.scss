@@ -101,3 +101,19 @@
 .general-guidelines {
     margin-top: 24px;
 }
+
+
+@media only screen and (max-width: 700px){
+    .rules {
+        padding: 0px;
+
+        .card {
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+
+    .main-content {
+        padding: 0 12px;
+    }
+}

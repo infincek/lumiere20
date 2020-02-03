@@ -20,7 +20,7 @@ nav {
         width: 0;
         height: 2px;
         @include theme(){
-            background: theme(primaryGradient);
+            background: linear-gradient(to right,theme(primaryColor), theme(secondaryColor))
         }
         bottom: 0;
         left: 0;
@@ -128,7 +128,7 @@ nav {
         .logo {
             text-align: center;
             img {
-                width:64px;
+                width: 48px;
             }
         }
 
@@ -144,9 +144,13 @@ nav {
             top: calc(50% - 16px);
             left: 22px;
 
-            img {
+            svg {
                 width: 100%;
                 height: 100%;
+
+                path {
+                    fill: #fff;
+                }
             }
         }
     }
@@ -176,7 +180,7 @@ nav {
         right: 0;
         top: 0;
         @include theme(){
-            background: theme(primaryGradient);
+            background: linear-gradient(to bottom,theme(primaryColor), theme(secondaryColor))
         }
     }
 
@@ -190,7 +194,10 @@ nav {
     }
 
     .nav-links {
-
+        flex: auto;
+        justify-content: center;
+        flex-direction: column;
+        display: flex;
         ul {
             height: 100%;
             flex-wrap: nowrap;
@@ -214,6 +221,8 @@ nav {
 
 @media only screen and (max-width: 700px){
     nav{
+        padding: 18px 12px;
+
         .wide {
             display: none;
         }

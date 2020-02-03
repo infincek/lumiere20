@@ -134,3 +134,62 @@ h6 {
     padding: 16px 0;
     padding-bottom: 64px;
 }
+
+@media only screen and (max-width: 900px) {
+    h1 {
+        font-size: nth($headingSize,2);
+    }
+    
+    h2 {
+        font-size: nth($headingSize,4);
+    }
+    
+    h3 {
+        font-size: nth($headingSize,5);
+    }
+    
+    h4 {
+        font-size: nth($headingSize,6);
+    }
+    
+    h5 {
+        font-size: nth($headingSize,7);
+    }
+    
+    h6 {
+        font-size: nth($headingSize,8);
+    }
+    
+}
+
+@media only screen and (max-width: 700px) {
+
+    .title {
+        padding: 40px 0;
+    }
+
+    h1 {
+        font-size: nth($headingSize,4);
+    }
+    
+    h2 {
+        font-size: nth($headingSize,5);
+    }
+    
+    h3 {
+        font-size: nth($headingSize,6);
+    }
+    
+    h4 {
+        font-size: nth($headingSize,7);
+    }
+    
+    h5 {
+        font-size: nth($headingSize,8);
+    }
+    
+    h6 {
+        font-size: nth($headingSize,9);
+    }
+    
+}

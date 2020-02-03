@@ -1,6 +1,6 @@
 @import "theme";
 
-    .front-page{
+.front-page{
     .bgvideo {
         width: 100%;
         height: 100%;
@@ -95,25 +95,25 @@
 
             h3 {
                 position: relative;
-                z-index: 2;
+                z-index: 4;
             }
 
             .hover {
+                /*
+                For some reason, this doesn't work.
+                @include theme(){
+                    background: linear-gradient(to bottom,theme(primaryColor), theme(secondaryColor));   
+                }*/
+                background: linear-gradient(to right,#00a8ff, #4cd137);
                 position: absolute;
                 width: 0;
                 height: 100%;
-                @include theme(){
-                    background: theme(primaryGradient);
-                }
+                z-index: 3;
                 transition: width .25s cubic-bezier(0.6, -0.28, 0.735, 0.045);
             }
 
             &:nth-child(even){
                 background: #000;
-            }
-
-            a {
-                z-index: 5
             }
 
             &:hover {
@@ -163,8 +163,18 @@
     }
 
 
-    @media only screen and (max-width: 700px){
+    @media only screen and (max-width: 900px){
         .section {
+            padding: 64px 0;
+            .content {
+                padding-left: 0;
+            }
+        }
+    }
+
+    @media only screen and (max-width: 750px){
+        .section {
+            padding: 32px 0;
             .content {
                 padding-left: 0;
             }

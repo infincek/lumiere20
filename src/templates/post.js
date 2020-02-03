@@ -39,7 +39,7 @@ export default ({ data }) => {
                 <div className="page-section page">
                     <div className="row">
                         <div className="col s12 m6 l7">
-                            <div
+                            <div className="main-content" 
                                 dangerouslySetInnerHTML={{
                                     __html: data.markdownRemark.html,
                                 }}

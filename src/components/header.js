@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import {IoIosMenu as Hamburger } from "react-icons/io"
 
 import Sidebar from "./sidebar"
 import menuIcon from "../assets/menu.png"
@@ -111,7 +112,9 @@ class Navbar extends React.Component {
             <React.Fragment>
                 <nav className={this.state.navClass+` ${navAdditionalClass}`}>
                     <div className="mob">
-                        <button title="Open Menu" onClick={() => this.sidebarOnChange(true)}><img src={menuIcon} alt="Menu"/></button>
+                        <button title="Open Menu" onClick={() => this.sidebarOnChange(true)}>
+                            <Hamburger />
+                        </button>
                         <div className="logo">
                             <Link to="/" title="Home">
                                 <img src="/images/logo.png" alt="Lumiere"/>
