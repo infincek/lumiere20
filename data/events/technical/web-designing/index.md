@@ -13,11 +13,11 @@ rules:
 - Once completed and left, the team will have no right renter their system.
 - Decision of the judges will be final
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Nikhil(IT)
+      phone: 9539021945
+    - name: Bestin(IT)
+      phone: 8086405622
+prize: 3000
+registration: 100
 ---
 Web developing is a more specialist role, focusing on the back-end development of a website and will incorporate, among other things, the creation of highly complex search functions. This is no easy task since it involves creative and technical skills. Let's explore your talent in creating and laying out the visual aesthetics of a website

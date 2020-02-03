@@ -15,12 +15,12 @@ rules:
 - Valid student id card is mandatory. itself, else will result in elimination. 
 - Spot registration will be available
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Aswin(CE)
+      phone: 7356772435
+    - name: Sruthy Sree(EEE)
+      phone: 9539304171
+prize: 10000
+registration: 500
 ---
 
 Prove your worth; show the world that your personality is your identity. Attitude has to be inspired from attitude, let the world get inspired from you.

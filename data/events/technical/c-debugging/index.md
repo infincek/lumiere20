@@ -12,12 +12,12 @@ rules:
 - Organizing committee has a right to disqualify a participant in case of any indiscipline.
 - Decision of judges shall be final and it will be binding to all.
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Suraj Salim(CS)
+      phone: 7559033442
+    - name: Sreelakshmi EC (CS)
+      phone: 8304887361
+prize: 4000
+registration: 100
 ---
 
 Prove your worth; show the world that your personality is your identity. Attitude has to be inspired from attitude, let the world get inspired from you.

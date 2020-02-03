@@ -13,12 +13,12 @@ rules:
 - Valid student id card is mandatory
 
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Rosh Roy(EC)
+      phone: 9961408553
+    - name: Aishwarya(EEE)
+      phone: 7025608925
+prize: 15000
+registration: 500
 ---
 
 An innovative work is better than an unimplemented idea in a piece of paper. Sculpture your ideas into valuable stones.

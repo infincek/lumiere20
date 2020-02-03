@@ -17,11 +17,11 @@ rules:
 - The track will contain certain number of checkpoints and if the bot goes out of the track then it has to start with the previous checkpoint.
 - In case of any discrepancies, organiser’s decision will be final and binding.
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Karthik(EEE)
+      phone: 8921726667
+    - name: Akhil P K(EEE)
+      phone: 7356536485
+prize: 10000
+registration: 500
 ---
 Think your bot can overcome any obstacle big or small in the shortest time possible? Then LUMIERE'20 is ready to offer you a platform for judging your skills and design in robo race.

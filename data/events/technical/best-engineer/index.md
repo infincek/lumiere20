@@ -11,12 +11,13 @@ rules:
 - Participants should report on the specified time itself, else will result in elimination. 
 - Spot registration will be available
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Aparna(EEE)
+      phone: 97449883619
+    - name: Cira(EC)
+      phone: 9188465403
+    
+prize: 8000
+registration: 200
 ---
 
 Prove your worth; show the world that your personality is your identity. Attitude has to be inspired from attitude, let the world get inspired from you.

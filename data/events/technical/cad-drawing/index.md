@@ -11,12 +11,12 @@ rules:
 - Do use a calculator. Mobile phones are not allowed to use.
 - Decision of judges will be final
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Stanley Jones Daniel(CE)
+      phone: 9495036312
+    - name: Arya P(CE)
+      phone: 8075521900
+prize: 5000
+registration: 100
 ---
 Not all your wishes are achieved well. But planned ones do. It's time to unleash the creator in you, the designer beast in you. Burn up your brain cells to solve our constraints in your own way. Be ready and be there for CADDster 2020.   
 》CADDster is the creative platform for you to cast a building plan using 2D AutoCAD software.

@@ -12,12 +12,12 @@ rules:
 - Unethical behaviour will lead to disqualification. 
 - Faculty coordinators have all the rights to take final decision for any matter during the event
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Anas Manaf A A(EI)
+      phone: 8848576255
+    - name: Jishnu P S(EI)
+      phone: 7356731572
+prize: 15000
+registration: 500
 ---
 Robo war is an event where in manually controlled Robots battles each other in a specially built battle arena.   
 <br>

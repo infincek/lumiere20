@@ -16,12 +16,12 @@ rules:
 -   If number of participating teams is below 5, the prize money will be cut-off to 70%.
 -   The decision of the event managers will be final.
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Gayathri (EI)
+      phone: 8943866654
+    - name: Sruthy J(EI)
+      phone: 8330811284
+prize: 4000
+registration: 100
 ---
 
 College of Engineering Kidangoor proposes an astonishing way to explore your uniqueness to handle the circuits. Under the banner of LUMIERE'20, here comes the next level platform which consolidates your proliferative skills to debug the circuit complexes.

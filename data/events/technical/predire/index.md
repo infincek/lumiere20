@@ -13,11 +13,11 @@ rules:
 - Participants should strictly follow all instructions given by volunteers during the event.
 - Decision of the judges will be final
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Augustine P J(CE)
+      phone: 9846386905
+    - name: Abhishek T S(CE)
+      phone: 9497473425
+prize: 5000
+registration: 100
 ---
 Engineering is all about evaluation .How strong is your   power of evaluation? How accurate are your visual assessments? If you believe in your logic's call, raise your reckon and make a mark in the challenge. Predire is a fun based mathematic and logic assessment challenge to predict the right about some, provided circumstances.

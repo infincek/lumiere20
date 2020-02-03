@@ -19,11 +19,11 @@ rules:
 - Judge's decision will be final!!!
 - Further details will be provided  at the time of event
 eventHeads:
-    - name: Raj
-      phone: 9999999999
-    - name: Raj
-      phone: 9988998899
-prize: 50000
-registration: 2000
+    - name: Devika Rani(CE)
+      phone: 8301903114
+    - name: Sarath Prabakaran(CE)
+      phone: 94472566490
+prize: 5000
+registration: 200
 ---
 Esquisse is here to provide you a chance for exposing your creativity! Don't let the inventor in you to be in the nutshell, just free it up.
