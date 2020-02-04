@@ -23,7 +23,7 @@ const links = {
         },
         {
             name: "Workshops",
-            url: "/workshops"
+            url: "/events/workshops"
         }
     ],
     social: [

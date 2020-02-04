@@ -15,10 +15,9 @@ export default ({ pageContext, data}) => {
         description: meta.description
     }
 
-
-    const eventData = data.allMarkdownRemark.edges.map(item => {
+    const eventData = data.allMarkdownRemark.edges.map((item,i) => {
         return (
-            <EventItem data={item.node}/>
+            <EventItem data={item.node} key={"eve-i"+i}/>
         )
     })
     

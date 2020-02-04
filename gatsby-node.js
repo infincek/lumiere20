@@ -53,8 +53,8 @@ exports.createPages = ({ graphql, actions }) => {
                 path: e.url,
                 component: path.resolve(`./src/templates/event.js`),
                 context: {
+                    regex: e.url+"/",
                     data: {
-                        regex: e.url+"/",
                         ...e
                     }
                 }

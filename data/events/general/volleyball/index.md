@@ -1,5 +1,5 @@
 ---
-title: Lan Gaming
+title: Volleyball
 image: ./event.png
 description: 
 rules: 
