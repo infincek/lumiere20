@@ -1,6 +1,6 @@
 ---
 title: One Minute Video
-image: ./event.png
+image: ./one-min.jpeg
 description: There is this thrill that comes packed in 60 seconds, the challenge and discipline of displaying a fully developed idea in no more and no less than one minute. As short as the span of the video is, though, audiences are left intrigued and thinking about this or that little gem for days.
 
 

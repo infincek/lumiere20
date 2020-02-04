@@ -1,6 +1,6 @@
 ---
 title: Groupfie
-image: ./event.png
+image: ./groupfie.jpeg
 description:  
 rules: 
 - 

@@ -1,6 +1,6 @@
 ---
 title: Photography
-image: ./event.png
+image: ./photography.jpeg
 description: 
 
 
