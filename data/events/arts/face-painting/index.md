@@ -7,13 +7,13 @@ rules:
 - A team of two members (of which one members face will be the canvas.) 
 - Maximum allowed time is one and half hours. 
 - Skin save adhesives and removers ,feathers 
-- Glitter in loose, gel or liquid form
-Loose and pressed powders including shimmer powders.          
+- Glitter in loose, gel or liquid form 
+- Loose and pressed powders including shimmer powders.
 - May not use:-
-  - Stamps or stencils 
-  - Air brush system 
-  - Make over any part of the face.
-  - Participants are required to bring their own accessories. 
+- Stamps or stencils 
+- Air brush system 
+- Make over any part of the face.
+- Participants are required to bring their own accessories. 
 - Further instructions are provided on spot. 
 - Online and offline registrations are allowed
 eventHeads:
