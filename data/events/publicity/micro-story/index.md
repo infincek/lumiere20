@@ -15,7 +15,7 @@ rules:
 - Auto likes and likes through various apps are not  acceptable and will lead to disqualification.
 - To participate, what Sapp your entry with your Name (in  Malayalam), phone number and instagram id to 9496636979.
 eventHeads:
-    - name:Archana Kalyan(CE)
+    - name: Archana Kalyan(CE)
       phone: 9496636979
 
 prize: 1000
