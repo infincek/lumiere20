@@ -136,18 +136,18 @@ export default class Index extends React.Component {
                                         style={{ marginTop: "24px" }}
                                         className="tel"
                                     >
-                                        <a href="tel:9999999999">
+                                        <a href="tel:8921364143">
                                             <span>
                                                 <img src={phone} alt="" />
                                             </span>
-                                            9999999999
+                                            Harikrishna R :&nbsp;&nbsp; 8921364143
                                         </a>
                                         <br />
                                         <a href="tel:9999999999">
                                             <span>
                                                 <img src={phone} alt="" />
                                             </span>
-                                            9999999999
+                                            Saran A S :  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8281654074
                                         </a>
                                         <br />
                                     </p>
