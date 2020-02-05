@@ -15,13 +15,12 @@ prize: 0
 registration: 700
 reg: https://www.yepdesk.com/workshop-on-robotics-and-machine-learning
 ---
+
 Grab a chance to broaden your knowledge in Machine Learning and Robotics
 
 LUMIERE'20 is organizing a two day workshop based on Machine learning and Robotics.
 
 Limited seats..... Hurry up and grab your seats.
-
-Register fees: 700/-
 
 Date: 14th and 15th February 2020
 

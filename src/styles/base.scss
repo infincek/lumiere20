@@ -211,7 +211,7 @@ h6 {
     &:hover {
         box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.3);
         @include theme(){
-            background: theme(secondaryColor);
+            background: theme(primaryColor);
         }
     }
 }
