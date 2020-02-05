@@ -1,11 +1,17 @@
 ---
 title: Best Entertainer
-image: ./event.png
+image: ./bes-ent.jpeg
 description: Description
 rules: 
-    - Each participant can perform as a solo artist.
-    - Multiple entries are allowed from the participating institution.
-    - Use of abusive language or dark humour is not permitted.
+- Each participant can perform as a solo artist.
+- Multiple entries are allowed from the participating institution.
+- Use of abusive language or dark humour is not permitted.
+- Inappropriate double entendre are not permitted.
+- No inappropriate comments should be made that could hurt a community’s sentiment related to their  religious belief, race, sex, culture or heritage during the live performance.
+- Highest weightage would be placed on originality and delivery of the content
+- Plagiarism of content or use of inappropriate language will lead to negative marking or  disqualification
+- The decision made by the judge(s) will be considered as final.
+- Online and offline registrations are allowed
 eventHeads:
     - name: Akhil M P(CS)
       phone: 9846751777

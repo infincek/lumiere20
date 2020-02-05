@@ -1,5 +1,5 @@
 ---
-title: Groupfie
+title: Robotics and machine Learning
 image: ./event.png
 description:  
 rules: 
