@@ -18,5 +18,6 @@ eventHeads:
       phone: 9495059363
 prize: 1000
 registration: 100
+reg: https://www.yepdesk.com/lumiere-pen-tattoo
 ---
 If our body is a canvas, there is a plenty of room for a little arts and crafts. And what better way to cement a memory or pay homage to a favourite quote or symbol than with a beautifully drawn tattoo? Get ready with amazing tattoo designs. Turn your pens magical!!  

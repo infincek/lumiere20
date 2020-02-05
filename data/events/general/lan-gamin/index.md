@@ -17,7 +17,8 @@ eventHeads:
     - name: Athul Shaju(CE)
       phone: 9562840191
 prize: 4000
-registration: 0
+reglistration: 0
+reg: https://www.yepdesk.com/lumiere-lan-gaming
 ---
 🥅 FIFA
 

@@ -17,5 +17,6 @@ eventHeads:
       phone: 9656690500
 prize: 8000
 registration: 200
+reg: https://www.yepdesk.com/lumiere-treasure-hunt
 ---
 Wherein the hunters are unsure of what treasure lay in for them which make much better stories. Clear vision holds the key. So let the game be ventured.

@@ -16,5 +16,6 @@ eventHeads:
       phone: 7558902516
 prize: 2000
 registration: 100
+reg: https://www.yepdesk.com/lumiere-poster-designing
 ---
 Do u wish to design that could inspire people then be at cek for lumiere 2020

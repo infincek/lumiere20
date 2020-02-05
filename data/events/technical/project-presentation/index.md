@@ -19,6 +19,7 @@ eventHeads:
       phone: 7025608925
 prize: 15000
 registration: 500
+reg: https://www.yepdesk.com/lumiere-project-presentation
 ---
 
 An innovative work is better than an unimplemented idea in a piece of paper. Sculpture your ideas into valuable stones.

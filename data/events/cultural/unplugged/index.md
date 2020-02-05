@@ -24,5 +24,6 @@ eventHeads:
       phone: 9497590756
 prize: 15000
 registration: 750
+reg: https://www.yepdesk.com/lumiere-unplugged
 ---
 Doesn’t acoustic music make everything better? Don’t you wish you could enthral the audience by playing soft unplugged tunes? Then here is an amazing opportunity to perform the best, among the best and showcase your musically. Let the spirit of music shows the real you and make you win.

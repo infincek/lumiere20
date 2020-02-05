@@ -18,6 +18,7 @@ eventHeads:
     
 prize: 8000
 registration: 200
+reg: https://www.yepdesk.com/lumiere-best-engineer
 ---
 
 Prove your worth; show the world that your personality is your identity. Attitude has to be inspired from attitude, let the world get inspired from you.

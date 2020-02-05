@@ -17,5 +17,6 @@ eventHeads:
       phone: 8075298872
 prize: 10000
 registration: 500
+reg: https://www.yepdesk.com/lumiere-wall-painting
 ---
 An artist can enlighten, educate and effect change around the world without uttering a single word. Wake up the artist in your and let your pellets make a difference. Dress up the walls and give life to them through your magical colors and let them speak out !

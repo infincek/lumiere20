@@ -18,5 +18,6 @@ eventHeads:
       phone: 9446706485
 prize: 2000
 registration: 100
+reg: https://www.yepdesk.com/lumiere-dark-football
 ---
 When the days are dark and friends are few, take a ball and score a few. Get ready for some balls in the goal. 

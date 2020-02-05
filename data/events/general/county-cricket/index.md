@@ -19,5 +19,6 @@ eventHeads:
       phone: 8086124246
 prize: 6000
 registration: 400
+reg: https://www.yepdesk.com/lumiere-county-cricket
 ---
 🏏

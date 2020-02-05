@@ -20,5 +20,6 @@ eventHeads:
       phone: 9961684383
 prize: 5000
 registration: 200
+reg: https://www.yepdesk.com/lumiere-adaptune
 ---
 Show off your dance skills in this amazing platform where you sync your brain and legs to adapt yourself to the beats!

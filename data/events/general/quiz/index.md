@@ -21,6 +21,7 @@ eventHeads:
       phone: 8921955164
 prize: 5000
 registration: 100
+reg: https://www.yepdesk.com/quiz2
 ---
 
 Asking questions are the stepping stones to achieve knowledge in pursuit of trivial knowledge. Stand up and make race to conquer heights.

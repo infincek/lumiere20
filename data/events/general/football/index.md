@@ -19,5 +19,6 @@ eventHeads:
       phone: 8157841966
 prize: 6000
 registration: 400
+reg: https://www.yepdesk.com/lumiere-4x4-football
 ---
 4*4 football is a variant of association football played on a hard court, smaller than a footballpitch, and mainly indoors. It has similarities to four-a-side football. This game is playedbetween two teams of four players each; each team can take different tactics.

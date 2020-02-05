@@ -21,6 +21,7 @@ eventHeads:
       phone: 9539304171
 prize: 10000
 registration: 500
+reg: https://www.yepdesk.com/lumiere-paper-presentation
 ---
 
 Prove your worth; show the world that your personality is your identity. Attitude has to be inspired from attitude, let the world get inspired from you.
