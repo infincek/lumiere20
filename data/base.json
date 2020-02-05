@@ -9,19 +9,19 @@
         {
             "title": "Technical Events",
             "url": "/events/technical",
-            "image": "/images/event.png",
+            "image": "/images/tech.png",
             "description": "Technical Events"
         },
         {
             "title": "Arts Events",
             "url": "/events/arts",
-            "image": "/images/event.png",
+            "image": "/images/art.png",
             "description": "Arts Events"
         },
         {
             "title": "Cultural Events",
             "url": "/events/cultural",
-            "image": "/images/event.png",
+            "image": "/images/cul.png",
             "description": "Cultural Events"
         },
         {

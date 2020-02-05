@@ -3,14 +3,15 @@ title: County Cricket
 image: ./event.png
 description: When the days are dark and friends are few, take a ball and score a few. Get ready for some balls in the goal. 
 rules: 
-- Each team should include 2members. 
-- Time limit is 10mins. 
-- High Goals and high kicks are not allowed. 
-- Boundary walls can be used. 
-- Hard hitting will receive a warning for the first time and penalty for further cases.
-- All the items for the event will be provided by the organizers. 
-- Foul play is disqualified. 
-- Coordinator's decision will be final
+- Each team will constitute of 5 players.
+- Scoring will be limited to one side only either to offside or leg side.
+- Team winning the toss can select the scoring side(either offside or leg side)
+- Group stages will be of 3 overs. Semi-finals and finals will be 4 over matches.
+- Only ground shots are allowed. Sixes will be given out.
+- Maximum scoring shot will be 4 runs.
+- Proper bowling action is required( chucking deliveries will be given as no ball)
+- FREEHITS will be allotted for no balls
+- All matches will be knockout matches.
 eventHeads:
     - name: Libin Babu(EEE)
       phone: 9656867281

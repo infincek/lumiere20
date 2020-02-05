@@ -21,7 +21,7 @@ eventHeads:
       phone: 8281025737
     - name: Malavika(EC)
       phone: 9207570745
-prize: 2000
-registration: 100
+prize: 50000
+registration: 2000
 ---
 Fashion is part of the daily air and it changes all the time, with all the events. You can even see the approaching of a revolution in clothes. You can see and feel everything in clothes. What you wear is how you present yourself to the world, especially today, when human contacts are so quick. Let’s explore your talent to glam yourself and prepare yourself for.
