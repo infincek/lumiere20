@@ -48,6 +48,10 @@ export default ({ data }) => {
                                 {eventHeads}
                                 <DetailCard className="fill" icon={<Trophy />} rep="prize" content={data.markdownRemark.frontmatter.prize}/>
                                 <DetailCard className="fill" icon={<Money />} rep="registration fee" content={data.markdownRemark.frontmatter.registration === 0 ? "FREE" : data.markdownRemark.frontmatter.registration}/>
+                                {
+                                    data.markdownRemark.frontmatter.reg &&
+                                    <a href={data.markdownRemark.frontmatter.reg} title="Register Now" target="_blank" className="btn">Register</a>
+                                }
                             </div>
                         </div>
                         <div className="col s12 m6 l5">
@@ -95,6 +99,7 @@ export const query = graphql`
                 }
                 prize
                 registration
+                reg
             }
         }
     }
