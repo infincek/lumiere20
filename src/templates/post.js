@@ -47,7 +47,7 @@ export default ({ data }) => {
                             <div className="details">
                                 {eventHeads}
                                 <DetailCard className="fill" icon={<Trophy />} rep="prize" content={data.markdownRemark.frontmatter.prize}/>
-                                <DetailCard className="fill" icon={<Money />} rep="registration fee" content={data.markdownRemark.frontmatter.registration}/>
+                                <DetailCard className="fill" icon={<Money />} rep="registration fee" content={data.markdownRemark.frontmatter.registration === 0 ? "FREE" : data.markdownRemark.frontmatter.registration}/>
                             </div>
                         </div>
                         <div className="col s12 m6 l5">
