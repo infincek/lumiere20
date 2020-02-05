@@ -20,7 +20,7 @@ eventHeads:
       phone: 9037469003
     - name: Princy (IT)
       phone: 9072271565
-prize: 2000
-registration: 100
+prize: 5000
+registration: 400
 ---
 When you synchronize things, you make happen at the same time. If you have rhythm, you can synchronize your dance moves with the beat of the music. Synchronize with your partner without looking them. A screen would separate the participants.

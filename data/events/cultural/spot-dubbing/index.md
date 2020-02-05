@@ -17,3 +17,5 @@ eventHeads:
 prize: 3000
 registration: 100
 ---
+
+### Sponsored by Tharavad Mens Hostel
