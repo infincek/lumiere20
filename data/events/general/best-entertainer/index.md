@@ -14,7 +14,7 @@ rules:
 - Online and offline registrations are allowed
 eventHeads:
     - name: Akhil M P(CS)
-      phone: 9846751777
+      phone: 6282945813
     - name: Siddarth (CS)
       phone: 9495383916
 prize: 8000
