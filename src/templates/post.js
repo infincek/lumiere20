@@ -50,7 +50,7 @@ export default ({ data }) => {
                                 <DetailCard className="fill" icon={<Money />} rep="registration fee" content={data.markdownRemark.frontmatter.registration === 0 ? "FREE" : data.markdownRemark.frontmatter.registration}/>
                                 {
                                     data.markdownRemark.frontmatter.reg &&
-                                    <a href={data.markdownRemark.frontmatter.reg} title="Register Now" target="_blank" className="btn">Register</a>
+                                    <a href={data.markdownRemark.frontmatter.reg} title="Register Now" target="_blank" rel="noopener noreferrer" className="btn">Register</a>
                                 }
                             </div>
                         </div>
