@@ -1,8 +1,7 @@
 ---
 title: Mehendi Competition
 image: ./event.png
-description: 
-
+description: <description needed>
 rules: 
 - Participants need not to bring Mahanadi  cones.
 - Mobile phones are not allowed.
