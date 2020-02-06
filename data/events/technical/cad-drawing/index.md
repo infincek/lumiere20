@@ -13,8 +13,8 @@ rules:
 eventHeads:
     - name: Stanley Jones Daniel(CE)
       phone: 9495036312
-    - name: Arya P(CE)
-      phone: 8075521900
+    - name: Arya P Suresh(CE)
+      phone: 9744798867
 prize: 5000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22bedce4b022450dc34daa

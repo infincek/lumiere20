@@ -15,7 +15,7 @@ rules:
 eventHeads:
     - name: Libin Babu(EEE)
       phone: 9656867281
-    - name: Arjun Jith(CE)
+    - name: Arjun A M(CE)
       phone: 8086124246
 prize: 6000
 registration: 400
