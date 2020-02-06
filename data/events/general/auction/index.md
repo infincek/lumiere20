@@ -16,7 +16,7 @@ eventHeads:
       phone: 9656091801
 prize: 2000
 registration: 100
-reg: https://www.yepdesk.com/lumiere-auction
+reg: https://www.yepdesk.com/buy-tickets/5e22b098e4b022450dc2ef9c
 ---
 Have that Business Mindset? Can price competitively and Buy stuff... You'll be feeling like home at Auction... Register Now
 

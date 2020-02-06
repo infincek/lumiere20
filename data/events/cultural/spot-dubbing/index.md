@@ -16,7 +16,7 @@ eventHeads:
       phone: 9562393975
 prize: 3000
 registration: 100
-reg: https://www.yepdesk.com/lumiere-spot-dubbing
+reg: https://www.yepdesk.com/buy-tickets/5e22c64fe4b022450dc36b1b
 ---
 
 ### Sponsored by Tharavad Mens Hostel

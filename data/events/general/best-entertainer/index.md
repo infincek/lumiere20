@@ -19,7 +19,7 @@ eventHeads:
       phone: 9495383916
 prize: 8000
 registration: 300
-reg: https://www.yepdesk.com/best-entertainer
+reg: https://www.yepdesk.com/buy-tickets/5e229d92e4b022450dc26bab
 ---
 
 Risking your own life in order to entertain others is the height of stupidity. Are you one with full of humour..? Do you think that you can dance away one's sorrows and put a smile on their face..? Then here’s the best platform giving you a chance to become one.

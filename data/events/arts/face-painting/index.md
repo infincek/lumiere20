@@ -23,7 +23,7 @@ eventHeads:
       phone: 7025981161
 prize: 2000
 registration: 100
-reg: https://www.yepdesk.com/lumiere-face-painting
+reg: https://www.yepdesk.com/buy-tickets/5e22d630e4b022450dc3a9a6
 ---
 Art is not which you see but what you make others see. Artists use peoples’ face as canvas to turn into brilliant pieces of art. We invite each one of you who love to be artist. May be your artwork is what sets you apart from others.
 

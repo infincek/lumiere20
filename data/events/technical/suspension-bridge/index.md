@@ -25,6 +25,6 @@ eventHeads:
       phone: 94472566490
 prize: 5000
 registration: 200
-reg: https://www.yepdesk.com/lumiere-suspention-bridge
+reg: https://www.yepdesk.com/buy-tickets/5e22bd9be4b022450dc34760
 ---
 Esquisse is here to provide you a chance for exposing your creativity! Don't let the inventor in you to be in the nutshell, just free it up.

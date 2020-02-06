@@ -22,7 +22,7 @@ eventHeads:
       phone: 8330811284
 prize: 4000
 registration: 100
-reg: https://www.yepdesk.com/lumiere-circuit-debugging
+reg: https://www.yepdesk.com/buy-tickets/5e22bafce4b022450dc32d23
 ---
 
 College of Engineering Kidangoor proposes an astonishing way to explore your uniqueness to handle the circuits. Under the banner of LUMIERE'20, here comes the next level platform which consolidates your proliferative skills to debug the circuit complexes.

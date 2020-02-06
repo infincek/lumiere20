@@ -17,6 +17,6 @@ eventHeads:
       phone: 8157093023
 prize: 5000
 registration: 300
-reg: https://www.yepdesk.com/lumiere-slip-soccer
+reg: https://www.yepdesk.com/buy-tickets/5e22ace2e4b022450dc2deb0
 ---
 

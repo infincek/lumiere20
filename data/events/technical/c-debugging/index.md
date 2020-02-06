@@ -18,7 +18,7 @@ eventHeads:
       phone: 8304887361
 prize: 4000
 registration: 100
-reg: https://www.yepdesk.com/lumiere-c-debugging
+reg: https://www.yepdesk.com/buy-tickets/5e22bc1ce4b022450dc338ae
 ---
 
 Prove your worth; show the world that your personality is your identity. Attitude has to be inspired from attitude, let the world get inspired from you.

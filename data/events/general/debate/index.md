@@ -18,6 +18,6 @@ eventHeads:
       phone: 7511141130
 prize: 5000
 registration: 200
-reg: https://www.yepdesk.com/lumiere-debate
+reg: https://www.yepdesk.com/buy-tickets/5e22a9aae4b022450dc2cc16
 ---
 Students are provided a controversial topic. Following research, they are assigned a position to debate with other students. Follow up discussion of the debate can critically analyse the performance as well.

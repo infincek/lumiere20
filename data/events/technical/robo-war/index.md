@@ -18,7 +18,7 @@ eventHeads:
       phone: 7356731572
 prize: 15000
 registration: 500
-reg: https://www.yepdesk.com/lumiere-robo-war
+reg: https://www.yepdesk.com/buy-tickets/5e22b723e4b022450dc31669
 ---
 Robo war is an event where in manually controlled Robots battles each other in a specially built battle arena.   
 <br>

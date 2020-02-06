@@ -37,6 +37,6 @@ eventHeads:
       phone: 8606884939
 prize: 6000
 registration: 400
-reg: https://www.yepdesk.com/lumiere-volleyball
+reg: https://www.yepdesk.com/buy-tickets/5e22af78e4b022450dc2eae9
 ---
 Let the sweats bring you glory in while the Net is the only thing between you

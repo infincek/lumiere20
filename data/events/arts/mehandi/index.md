@@ -19,6 +19,6 @@ eventHeads:
       phone: 7594072833
 prize: 2000
 registration: 100
-reg: https://www.yepdesk.com/lumiere-mehendi-competition
+reg: https://www.yepdesk.com/buy-tickets/5e22d75de4b022450dc3ac5c
 ---
 

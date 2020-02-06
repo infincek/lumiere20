@@ -20,6 +20,6 @@ eventHeads:
       phone: 9745296301
 prize: 1000
 registration: 50
-reg: https://www.yepdesk.com/lumiere-spot-photography
+reg: https://www.yepdesk.com/buy-tickets/5e22a47ce4b022450dc2aed3
 ---
 📸

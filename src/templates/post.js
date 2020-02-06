@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import { FiUser as User } from "react-icons/fi"
 import { AiOutlineTrophy as Trophy } from "react-icons/ai"
 import { FaMoneyBillWaveAlt as Money } from "react-icons/fa"
+import { FaRegCalendarAlt as Calendar } from "react-icons/fa"
 
 
 import Layout from "../components/layout"
@@ -46,6 +47,9 @@ export default ({ data }) => {
                             ></div>
                             <div className="details">
                                 {eventHeads}
+                                {(data.markdownRemark.frontmatter.date) &&
+                                <DetailCard className="fill" icon={<Calendar />} rep="date & time" content={data.markdownRemark.frontmatter.date}/>
+                                }
                                 {(data.markdownRemark.frontmatter.prize > 0) &&
                                 <DetailCard className="fill" icon={<Trophy />} rep="prize" content={data.markdownRemark.frontmatter.prize}/>
                                 }
@@ -102,6 +106,7 @@ export const query = graphql`
                 prize
                 registration
                 reg
+                date
             }
         }
     }

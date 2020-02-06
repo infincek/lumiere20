@@ -22,6 +22,6 @@ eventHeads:
       phone: 9072271565
 prize: 5000
 registration: 400
-reg: https://www.yepdesk.com/lumiere-step-n-synchro
+reg: https://www.yepdesk.com/buy-tickets/5e22cae4e4b022450dc38549
 ---
 When you synchronize things, you make happen at the same time. If you have rhythm, you can synchronize your dance moves with the beat of the music. Synchronize with your partner without looking them. A screen would separate the participants.
