@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 import {IoIosMenu as Hamburger } from "react-icons/io"
 
 import Sidebar from "./sidebar"
-import menuIcon from "../assets/menu.png"
 
 import "../styles/header.scss"
 

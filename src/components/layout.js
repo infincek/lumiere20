@@ -63,7 +63,8 @@ class Layout extends React.Component {
                 <div id="main">
                     <Seo {...this.props.seo} />
                     <Helmet>
-                        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700&display=swap" rel="stylesheet"/>>
+                        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700&display=swap" rel="stylesheet"/>
+                        <link rel="icon shortcut" href="/favicon.png" type="image/png"/>
                     </Helmet>
                     <Header
                         cycleTheme={this.cycleTheme}
