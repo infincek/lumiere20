@@ -18,6 +18,7 @@ eventHeads:
 prize: 1000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22db4ae4b022450dc3be09
+date: Feb 27
 ---
 
 It’s time to play with colour, design and something different with your nails.Pamper your nail by adorning them with hand painted quirky nail art.

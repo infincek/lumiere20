@@ -17,5 +17,6 @@ eventHeads:
 prize: 2000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22d83ce4b022450dc3b100
+date: Feb 27
 ---
 Do u wish to design that could inspire people then be at cek for lumiere 2020

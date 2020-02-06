@@ -1,7 +1,7 @@
 ---
 title: Mehendi Competition
 image: ./event.png
-description: <description needed>
+description: Bring the best in you for Mehendi Competition.
 rules: 
 - Participants need not to bring Mahanadi  cones.
 - Mobile phones are not allowed.
@@ -20,5 +20,6 @@ eventHeads:
 prize: 2000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22d75de4b022450dc3ac5c
+date: Feb 27
 ---
-
+Bring the best in you for Mehendi Competition.

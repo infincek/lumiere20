@@ -22,6 +22,7 @@ eventHeads:
 prize: 10000
 registration: 500
 reg: https://www.yepdesk.com/buy-tickets/5e22b944e4b022450dc32373
+date: Feb 28
 ---
 
 Prove your worth; show the world that your personality is your identity. Attitude has to be inspired from attitude, let the world get inspired from you.

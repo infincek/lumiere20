@@ -20,6 +20,7 @@ eventHeads:
 prize: 15000
 registration: 500
 reg: https://www.yepdesk.com/buy-tickets/5e22b813e4b022450dc31d35
+date: Feb 27
 ---
 
 An innovative work is better than an unimplemented idea in a piece of paper. Sculpture your ideas into valuable stones.

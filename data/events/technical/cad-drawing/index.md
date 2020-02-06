@@ -18,6 +18,7 @@ eventHeads:
 prize: 5000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22bedce4b022450dc34daa
+date: Feb 28
 ---
 Not all your wishes are achieved well. But planned ones do. It's time to unleash the creator in you, the designer beast in you. Burn up your brain cells to solve our constraints in your own way. Be ready and be there for CADDster 2020.   
 》CADDster is the creative platform for you to cast a building plan using 2D AutoCAD software.

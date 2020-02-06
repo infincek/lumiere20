@@ -19,5 +19,6 @@ eventHeads:
 prize: 1000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22da93e4b022450dc3bc07
+date: Feb 27
 ---
 If our body is a canvas, there is a plenty of room for a little arts and crafts. And what better way to cement a memory or pay homage to a favourite quote or symbol than with a beautifully drawn tattoo? Get ready with amazing tattoo designs. Turn your pens magical!!  

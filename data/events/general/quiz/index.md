@@ -22,6 +22,7 @@ eventHeads:
 prize: 5000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22a256e4b022450dc29601
+date: Feb 27
 ---
 
 Asking questions are the stepping stones to achieve knowledge in pursuit of trivial knowledge. Stand up and make race to conquer heights.

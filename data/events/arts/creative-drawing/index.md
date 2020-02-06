@@ -17,6 +17,6 @@ eventHeads:
 prize: 1000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22d9aee4b022450dc3b63d
-date: Feb 28, 10:00AM
+date: Feb 27
 ---
 Let’s see how creative your mind is! A theme will be provided. Use your creative ideas and skills to convert your imaginations into a fine art. All artworks from this day will be put to display in our art gallery.
