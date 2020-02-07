@@ -12,6 +12,7 @@ rules:
 - Plagiarism of content or use of inappropriate language will lead to negative marking or  disqualification
 - The decision made by the judge(s) will be considered as final.
 - Online and offline registrations are allowed
+- Time alloted 3+1 minutes
 eventHeads:
     - name: Akhil M P(CS)
       phone: 6282945813
