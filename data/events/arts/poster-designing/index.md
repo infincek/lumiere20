@@ -1,6 +1,6 @@
 ---
 title: Poster Designing
-image: ./event.png
+image: ./pd.jpg
 description: Do u wish to design that could inspire people then be at cek for lumiere 2020
 
 

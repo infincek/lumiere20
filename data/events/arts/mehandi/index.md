@@ -1,6 +1,6 @@
 ---
 title: Mehendi Competition
-image: ./event.png
+image: ./mehandi.jpg
 description: Bring the best in you for Mehendi Competition.
 rules: 
 - Participants need not to bring Mahanadi  cones.

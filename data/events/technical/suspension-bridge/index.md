@@ -1,6 +1,6 @@
 ---
 title: Suspension Bridge
-image: ./event.png
+image: ./bridge.jpg
 description: Esquisse is here to provide you a chance for exposing your creativity! Don't let the inventor in you to be in the nutshell, just free it up.
 
 rules: 

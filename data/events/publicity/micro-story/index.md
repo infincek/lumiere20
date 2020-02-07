@@ -1,6 +1,6 @@
 ---
 title: Micro Story
-image: ./micro-story.jpeg
+image: ./ms.jpg
 description: A mini saga is a concise way of telling a story which has exactly 50 words (except the title).
 
 rules: 

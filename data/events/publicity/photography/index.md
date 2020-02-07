@@ -1,6 +1,6 @@
 ---
 title: Photography
-image: ./photography.jpeg
+image: ./photography.jpg
 description: Photography is an art of capturing life around. It ensures the beauty to endure. So let's open third eye to uncover the veil of other eyes.
 
 rules: 

@@ -1,6 +1,6 @@
 ---
 title: Treasure Hunt
-image: ./event.png
+image: ./th.jpg
 description: Wherein the hunters are unsure of what treasure lay in for them which make much better stories. Clear vision holds the key. So let the game be ventured.
 
 rules: 

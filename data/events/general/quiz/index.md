@@ -1,6 +1,6 @@
 ---
 title: Quiz
-image: ./event.png
+image: ./qz.jpg
 description: Asking questions are the stepping stones to achieve knowledge in pursuit of trivial knowledge. Stand up and make race to conquer heights.
 
 rules: 

@@ -1,6 +1,6 @@
 ---
 title: Spot Photography
-image: ./event.png
+image: ./spot_photography.jpg
 description: Spot Photography
 rules: 
 - Open event

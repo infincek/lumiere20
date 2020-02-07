@@ -1,6 +1,6 @@
 ---
 title: Online Gaming
-image: ./online-gam.jpeg
+image: ./og.jpg
 description: Zeroed in is an online gaming contest organized as a part of Lumiere 2020,the national level techno cultural fest of College of Engineering Kidangoor on 
 
 

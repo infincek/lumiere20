@@ -1,6 +1,6 @@
 ---
 title: TikTok 
-image: ./tiktok.jpeg
+image: ./tt.jpg
 description: Are you crazy about making funny and swag videos? Or do u feel u are a good muser? Waiting to share ur crazy stuff online, then here is a chance Lumiere 20 brings u tiktok competition "ഇതാണ് ഞങ്ങ പറഞ്ഞ നടൻ" 
 rules: 
 - Video must last for 10 to 60 seconds.

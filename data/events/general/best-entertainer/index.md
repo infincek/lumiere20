@@ -1,6 +1,6 @@
 ---
 title: Best Entertainer
-image: ./bes-ent.jpeg
+image: ./best_entertainer.jpg
 description: Description
 rules: 
 - Each participant can perform as a solo artist.

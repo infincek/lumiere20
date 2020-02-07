@@ -1,6 +1,6 @@
 ---
 title: Groupfie
-image: ./groupfie.jpeg
+image: ./gp.jpg
 description:  Are you a selfie freak? Then what are you waiting for? Just take a selfie with your favourite one(s) and win the prize 
 rules: 
 - Only mobile selfies are accepted 

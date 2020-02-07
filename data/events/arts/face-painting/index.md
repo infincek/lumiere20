@@ -1,6 +1,6 @@
 ---
 title: Face Painting
-image: ./event.png
+image: ./fp.jpg
 description: Art is not which you see but what you make others see. Artists use peoples’ face as canvas to turn into brilliant pieces of art. We invite each one of you who love to be artist. May be your artwork is what sets you apart from others.
 
 rules: 
