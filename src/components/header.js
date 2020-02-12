@@ -28,17 +28,17 @@ const links = {
     social: [
         {
             name: "Facebook",
-            url: "#",
+            url: "https://www.facebook.com/ceklumiere",
             icon: "/images/facebook.png"
         },
         {
             name: "Instagram",
-            url: "#",
+            url: "https://www.instagram.com/cek_lumiere/",
             icon: "/images/instagram.png"
         },
         {
             name: "YouTube",
-            url: "#",
+            url: "https://www.youtube.com/channel/UCIUKp1yRD83k-YvRJYkR3HQ",
             icon: "/images/youtube.png"
         }
     ]
