@@ -17,7 +17,7 @@ eventHeads:
     - name: Aswathy(CE)
       phone: 8113025771
     - name: Devika(EEE)
-      phone: 9037469003
+      phone: 8921846459
     - name: Princy (IT)
       phone: 9072271565
 prize: 5000

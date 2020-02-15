@@ -17,7 +17,7 @@ eventHeads:
     - name: Amal Sunny(EI)
       phone: 8281158241
     - name: Tomson Roy(EI)
-      phone: 9961684383
+      phone: 6238083096
 prize: 5000
 registration: 200
 reg: https://www.yepdesk.com/buy-tickets/5e22c815e4b022450dc370c5
