@@ -1,6 +1,6 @@
 ---
 title: C Debugging
-image: ./event.png
+image: ./cde.jpeg
 description: Programming is not just a science but an art. De-bug your way out of the intricately coded C programs to prove your mettle. This event focus on testing the conceptual understanding of programming methodology to implement, test and debug the programs using programming language C.
 rules: 
 - This is a solo event. Individual participant has to register for the event. Unlimited participants per college/department are allowed. (Please do bring the ID card of college).

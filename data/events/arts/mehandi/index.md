@@ -14,7 +14,7 @@ rules:
 - No arguments or appeal will be entertained.
 eventHeads:
     - name: Shahana(CS)
-      phone: 9539191515
+      phone: 7591927851
     - name: Akshaya(CE)
       phone: 7594072833
 prize: 2000

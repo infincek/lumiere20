@@ -1,6 +1,6 @@
 ---
 title: Best Engineer
-image: ./event.png
+image: ./be.jpeg
 description: Prove your worth; show the world that your personality is your identity. Attitude has to be inspired from attitude, let the world get inspired from you.
 
 rules: 
