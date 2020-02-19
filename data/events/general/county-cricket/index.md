@@ -1,6 +1,6 @@
 ---
 title: County Cricket
-image: ./event.png
+image: ./cc.jpeg
 description: When the days are dark and friends are few, take a ball and score a few. Get ready for some balls in the goal. 
 rules: 
 - Each team will constitute of 5 players.

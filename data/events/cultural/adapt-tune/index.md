@@ -12,6 +12,8 @@ rules:
 - Attire
 - Choreography
 - Energy
+- Online and Offline Registrations are allowed
+- Decision of Judges will be Final
 - All the participants should report 15 minutes before the events
 eventHeads:
     - name: Amal Sunny(EI)

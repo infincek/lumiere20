@@ -1,6 +1,6 @@
 ---
 title: Dark Football
-image: ./event.png
+image: ./df.jpeg
 description: When the days are dark and friends are few, take a ball and score a few. Get ready for some balls in the goal. 
 rules: 
 - Each team should include 2 members. 

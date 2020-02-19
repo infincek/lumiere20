@@ -1,6 +1,6 @@
 ---
 title: Lan Gaming
-image: ./event.png
+image: ./lg.jpeg
 description: 
 rules: 
 - FIFA

@@ -1,6 +1,6 @@
 ---
 title: Spot Dubbing
-image: ./sp-dub.jpg
+image: ./spot_db.jpg
 description: 
 rules: 
 - There will be a preliminary round from which the candidates will be short listed. 

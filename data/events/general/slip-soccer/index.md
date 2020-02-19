@@ -1,6 +1,6 @@
 ---
 title: Slip Soccer
-image: ./event.png
+image: ./ss.jpeg
 description:  
 rules: 
 - THE TOURNAMENT WILL BE PLAYED ON KNOCK–OUT BASIS.

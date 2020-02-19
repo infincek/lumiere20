@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-image: ./event.png
+image: ./vo.jpeg
 description: Let the sweats bring you glory in while the Net is the only thing between you
 rules: 
 - 6 players on the floor at any one time - 3 in the front row and 3 in the back row

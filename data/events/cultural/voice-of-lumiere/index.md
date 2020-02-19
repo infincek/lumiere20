@@ -1,6 +1,6 @@
 ---
 title: Voice of Lumiere
-image: ./event.png
+image: ./vl.jpeg
 description: Voices, The soul of music. A soulful voice that transcends all emotions. That voice which tranquilized all rage. That voice which gives everyone the Goosebumps. The voice that thrills. That voice could be yours. The stage has been set. Now it's time to bring it. The race to crown. The voice of Lumiere 2020 begins. 
 
 rules: 

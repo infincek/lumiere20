@@ -7,7 +7,7 @@ rules:
 - The ramp show will have a single section. 
 - The teams are allowed to choose the theme of their interest. 
 - The team must specify their theme. 
-- Team comprise a minimum of 10 members and at most 20 members on the  stage. 
+- Team comprise a minimum of 8 members and at most 22 members on the  stage. 
 - Time limit for every team would be 15 minutes. 
 - Background music for your team should be submitted to the  organizers 1 hour prior to the commencement of the event in mp3  format. 
 - Judgement will be based on design, theme choreography, walk and  model. 

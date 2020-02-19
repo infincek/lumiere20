@@ -1,6 +1,6 @@
 ---
 title: Paper Presentation
-image: ./event.png
+image: ./pap.jpeg
 description: LUMIERE '20 of College of Engineering Kidangoor provides you an opportunity for showcasing your innovative ideas......
 
 
