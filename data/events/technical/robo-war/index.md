@@ -1,6 +1,6 @@
 ---
 title: Robo War
-image: ./event.png
+image: ./rw.jpeg
 description: Think your bot can overcome any obstacle big or small in the shortest time possible? Then LUMIERE'20 is ready to offer you a platform for judging your skills and design in robo race.
 
 rules: 
