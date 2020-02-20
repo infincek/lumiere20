@@ -1,6 +1,6 @@
 ---
 title: Auction
-image: ./event.png
+image: ./au.jpeg
 description: Have that Business Mindset? Can price competitively and Buy stuff... You'll be feeling like home at Auction.
 rules: 
 - A team must comprise of 2-3 members.

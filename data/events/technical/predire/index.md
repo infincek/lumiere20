@@ -1,6 +1,6 @@
 ---
 title: Predire
-image: ./event.png
+image: ./pd.jpeg
 description: Engineering is all about evaluation .How strong is your   power of evaluation? How accurate are your visual assessments? If you believe in your logic's call, raise your reckon and make a mark in the challenge. Predire is a fun based mathematic and logic assessment challenge to predict the right about some, provided circumstances.
 
 

@@ -1,6 +1,6 @@
 ---
 title: Project Presentation
-image: ./event.png
+image: ./pp.jpeg
 description: An innovative work is better than an unimplemented idea in a piece of paper. Sculpture your ideas into valuable stones.Revelation gives you a chance to showcase your work,
 rules:
 - Students can participate as a team of max 4 members or min 2 members.

@@ -1,6 +1,6 @@
 ---
 title: Short Film Fest
-image: ./event.png
+image: ./sff.jpeg
 description: Description
 rules: 
     - Each participant can perform as a solo artist.

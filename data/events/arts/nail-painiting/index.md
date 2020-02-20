@@ -1,6 +1,6 @@
 ---
 title: Nail Painting
-image: ./event.png
+image: ./np.jpeg
 description: It’s time to play with colour, design and something different with your nails.Pamper your nail by adorning them with hand painted quirky nail art.
 
 rules: 

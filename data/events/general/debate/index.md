@@ -1,6 +1,6 @@
 ---
 title: Debate
-image: ./event.png
+image: ./db.jpeg
 description: Students are provided a controversial topic. Following research, they are assigned a position to debate with other students. Follow up discussion of the debate can critically analyse the performance as well.
 rules: 
 - For registration all teams are required to  fill up the registration form from the counter itself.
