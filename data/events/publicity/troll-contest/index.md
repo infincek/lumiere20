@@ -1,6 +1,6 @@
 ---
 title: Troll Contest
-image: ./event.png
+image: ./tc.jpeg
 description: 
 rules: 
 - 

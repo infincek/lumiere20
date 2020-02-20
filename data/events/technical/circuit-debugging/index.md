@@ -1,6 +1,6 @@
 ---
 title: Circuit Debugging
-image: ./event.png
+image: ./cb.jpeg
 description: College of Engineering Kidangoor proposes an astonishing way to explore your uniqueness to handle the circuits. Under the banner of LUMIERE'20, here comes the next level platform which consolidates your proliferative skills to debug the circuit complexes.
 rules: 
 -   A team of maximum 2 participants are allowed.

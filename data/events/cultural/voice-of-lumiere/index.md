@@ -18,7 +18,7 @@ eventHeads:
     - name: Aswathy(EEE)
       phone: 9061870312
 prize: 5000
-registration: 200
+registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22cc74e4b022450dc39413
 date: Feb 28
 ---

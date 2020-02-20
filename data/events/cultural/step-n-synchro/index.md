@@ -21,7 +21,7 @@ eventHeads:
     - name: Princy (IT)
       phone: 9072271565
 prize: 5000
-registration: 400
+registration: 200
 reg: https://www.yepdesk.com/buy-tickets/5e22cae4e4b022450dc38549
 date: Feb 28
 ---

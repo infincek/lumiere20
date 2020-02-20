@@ -1,6 +1,6 @@
 ---
 title: 4*4 Football
-image: ./shootout.jpeg
+image: ./fb.jpeg
 description: 4*4 football is a variant of association football played on a hard court, smaller than a football pitch, and mainly indoors. It has similarities to four-a-side football. This game is played between two teams of four players each; each team can take different tactics.
 rules: 
 - This event can have 4 to 6 members in a team.

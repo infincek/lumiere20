@@ -1,6 +1,6 @@
 ---
 title: Web Designing
-image: ./event.png
+image: ./wd.jpeg
 description: Web developing is a more specialist role, focusing on the back-end development of a website and will incorporate, among other things, the creation of highly complex search functions. This is no easy task since it involves creative and technical skills. Let's explore your talent in creating and laying out the visual aesthetics of a website
 
 rules: 
