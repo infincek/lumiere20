@@ -24,6 +24,6 @@ eventHeads:
 prize: 10000
 registration: 500
 reg: https://www.yepdesk.com/buy-tickets/5e22b457e4b022450dc3044e
-date: Feb 27
+date: Feb 28
 ---
 Think your bot can overcome any obstacle big or small in the shortest time possible? Then LUMIERE'20 is ready to offer you a platform for judging your skills and design in robo race.
