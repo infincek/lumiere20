@@ -20,6 +20,6 @@ eventHeads:
 prize: 5000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22cc74e4b022450dc39413
-date: Feb 28
+date: Feb 27
 ---
 Voices, The soul of music. A soulful voice that transcends all emotions. That voice which tranquilized all rage. That voice which gives everyone the Goosebumps. The voice that thrills. That voice could be yours. The stage has been set. Now it's time to bring it. The race to crown. The voice of Lumiere 2020 begins. 

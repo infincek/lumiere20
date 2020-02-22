@@ -20,6 +20,6 @@ eventHeads:
 prize: 2000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22d75de4b022450dc3ac5c
-date: Feb 27
+date: Feb 28
 ---
 Bring the best in you for Mehendi Competition.
