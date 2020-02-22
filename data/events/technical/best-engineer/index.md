@@ -17,7 +17,7 @@ eventHeads:
       phone: 9188465403
     
 prize: 8000
-registration: 100
+registration: 200
 reg: https://www.yepdesk.com/buy-tickets/5e22b161e4b022450dc2f378
 date: Feb 28
 ---
