@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import Link from "./link"
 import {IoIosMenu as Hamburger } from "react-icons/io"
 
 import Sidebar from "./sidebar"
