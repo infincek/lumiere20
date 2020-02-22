@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import Link from "./link"
 import {IoIosMenu as Hamburger } from "react-icons/io"
 
 import Sidebar from "./sidebar"
@@ -28,17 +28,17 @@ const links = {
     social: [
         {
             name: "Facebook",
-            url: "#",
+            url: "https://www.facebook.com/ceklumiere",
             icon: "/images/facebook.png"
         },
         {
             name: "Instagram",
-            url: "#",
+            url: "https://www.instagram.com/cek_lumiere/",
             icon: "/images/instagram.png"
         },
         {
             name: "YouTube",
-            url: "#",
+            url: "https://www.youtube.com/channel/UCIUKp1yRD83k-YvRJYkR3HQ",
             icon: "/images/youtube.png"
         }
     ]
