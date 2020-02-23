@@ -1,6 +1,6 @@
 ---
 title: Adapt Tune
-image: ./event.png
+image: ./Adaptune.jpg
 description: Show off your dance skills in this amazing platform where you sync your brain and legs to adapt yourself to the beats!
 
 rules: 
@@ -23,6 +23,6 @@ eventHeads:
 prize: 5000
 registration: 200
 reg: https://www.yepdesk.com/buy-tickets/5e22c815e4b022450dc370c5
-date: Feb 27
+date: Feb 28
 ---
 Show off your dance skills in this amazing platform where you sync your brain and legs to adapt yourself to the beats!

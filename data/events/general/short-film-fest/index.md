@@ -14,7 +14,7 @@ eventHeads:
 prize: 15000
 registration: 500
 reg: https://www.yepdesk.com/buy-tickets/5e22a03de4b022450dc27f0f
-date: Feb 28
+date: Feb 27
 ---
 
 Risking your own life in order to entertain others is the height of stupidity. Are you one with full of humour..? Do you think that you can dance away one's sorrows and put a smile on their face..? Then here’s the best platform giving you a chance to become one.

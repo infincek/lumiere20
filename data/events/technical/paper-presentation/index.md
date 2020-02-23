@@ -20,7 +20,7 @@ eventHeads:
     - name: Sruthy Sree(EEE)
       phone: 9539304171
 prize: 10000
-registration: 500
+registration: 300
 reg: https://www.yepdesk.com/buy-tickets/5e22b944e4b022450dc32373
 date: Feb 28
 ---

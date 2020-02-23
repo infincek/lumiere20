@@ -17,7 +17,7 @@ eventHeads:
     - name: Pournami Sunil(EC)
       phone: 9961722698
 prize: 1000
-registration: 100
+registration: 50
 reg: https://www.yepdesk.com/buy-tickets/5e22da93e4b022450dc3bc07
 date: Feb 27
 ---
