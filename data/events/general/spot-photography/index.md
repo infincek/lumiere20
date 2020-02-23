@@ -18,8 +18,8 @@ eventHeads:
       phone: 8943441402
     - name: Jaimy Mariya Sunny(CS)
       phone: 9745296301
-prize: 1000
-registration: 50
+prize: 3000
+registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22a47ce4b022450dc2aed3
 ---
 📸
