@@ -19,7 +19,7 @@ eventHeads:
 prize: 4000
 reglistration: 0
 reg: https://www.yepdesk.com/lumiere-lan-gaming
-date: Feb 28
+date: Feb 27
 ---
 🥅 FIFA
 
