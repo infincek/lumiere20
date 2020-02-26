@@ -17,7 +17,7 @@ eventHeads:
 prize: 3000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22c64fe4b022450dc36b1b
-date: Feb 27
+date: Feb 28
 ---
 
 ### Sponsored by Tharavad Mens Hostel

@@ -18,5 +18,6 @@ eventHeads:
 prize: 8000
 registration: 200
 reg: https://www.yepdesk.com/buy-tickets/5e22a5c7e4b022450dc2b383
+date: Feb 27
 ---
 Wherein the hunters are unsure of what treasure lay in for them which make much better stories. Clear vision holds the key. So let the game be ventured.

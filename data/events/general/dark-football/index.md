@@ -19,5 +19,6 @@ eventHeads:
 prize: 2000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22aba7e4b022450dc2d887
+date: Feb 27
 ---
 When the days are dark and friends are few, take a ball and score a few. Get ready for some balls in the goal. 

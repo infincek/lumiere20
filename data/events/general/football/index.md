@@ -20,5 +20,6 @@ eventHeads:
 prize: 6000
 registration: 400
 reg: https://www.yepdesk.com/buy-tickets/5e22a75be4b022450dc2c105
+date: Feb 27
 ---
 4*4 football is a variant of association football played on a hard court, smaller than a footballpitch, and mainly indoors. It has similarities to four-a-side football. This game is playedbetween two teams of four players each; each team can take different tactics.

@@ -21,5 +21,6 @@ eventHeads:
 prize: 3000
 registration: 100
 reg: https://www.yepdesk.com/buy-tickets/5e22a47ce4b022450dc2aed3
+date: Feb 27-28
 ---
 📸
