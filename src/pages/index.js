@@ -120,6 +120,11 @@ export default class Index extends React.Component {
                         </div>
                     </div>
                 </div>
+                <div className="contact">
+                    <img src="/images/sponsors.jpg" alt="Sponsors" style={{
+                        width: "100%"
+                    }}/>
+                </div>
                 <div className="section contact">
                     <div className="container">
                         <div className="title">
